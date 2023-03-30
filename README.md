@@ -1,4 +1,4 @@
-# 200lab_final_exam_HR_data
+# HR Analytics
 
 ## Đề bài: Trong bối cảnh suy thoái kinh tế hiện nay, team HR được sếp yêu cầu, cắt giảm nhân sự. Song song với đó sẽ có những nhân viên được thăng chức và giữ lại để tiếp tục làm việc (Việc này để những người ở lại k hoang mang và tiếp tục cống hiến cho công ty - không gây ra làn sóng nghỉ việc) và bạn được giao trọng trách để xây dựng dashboard để hỗ trợ ra quyết định cho vấn đề này.
 
